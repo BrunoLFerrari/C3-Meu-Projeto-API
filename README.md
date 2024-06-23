@@ -1,6 +1,7 @@
 # C3-Meu-Projeto-API
 Autenticação de tokens JWT
 
+#EXTRAIA AS CINCO PASTAS .RAR CHAMADAS NODE_MODULE E AS COLOQUE EM UMA ÚNICA PASTA NODE_MODULE 
 
 # Projeto Prático da C3: API com NodeJS, Typescript, Prisma e Express
 
